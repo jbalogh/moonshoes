@@ -1,0 +1,2 @@
+Django==1.1.1
+-e git://github.com/simonw/djng@953eb33390972cbdd0ac0a52e3b23bfdd55e2cfe#egg=djng-0.1-py2.6-dev
